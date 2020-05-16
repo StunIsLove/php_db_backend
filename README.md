@@ -1,1 +1,1 @@
-# php_db_backend
+PHP scripts for MySQL database connection.
